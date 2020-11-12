@@ -1,7 +1,13 @@
 # TravelAppSimpleAnimations
 Simple animation and transition
 Used :
+
 1)MVC
-2)UIPageControl
-4)Animation
-5)Transition
+
+2)Settings up a UIPageControl
+
+4)UIView animation
+
+5)UIView transition
+
+6)UITapGesture
