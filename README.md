@@ -1,5 +1,5 @@
 # TravelAppSimpleAnimations
-Simple animation and transition
+
 Used :
 
 1)MVC
